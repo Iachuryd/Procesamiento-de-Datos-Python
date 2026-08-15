@@ -58,11 +58,7 @@ Cada cuaderno incluye:
    ```
    https://github.com/Iachuryd/Procesamiento-de-Datos-Python
    ```
-4. Acceder a la carpeta del proyecto y ejecutar:
-   ```
-Google Colab
-   ```
-5. Abrir el notebook deseado y ejecutar las celdas de manera secuencial.
+4. Acceder a la carpeta del proyecto y abrir el notebook deseado y ejecutar las celdas de manera secuencial.
    
 
 ## Consideraciones 
