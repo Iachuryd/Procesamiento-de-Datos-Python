@@ -60,7 +60,7 @@ Cada cuaderno incluye:
    ```
 4. Acceder a la carpeta del proyecto y ejecutar:
    ```
-   jupyter notebook
+Google Colab
    ```
 5. Abrir el notebook deseado y ejecutar las celdas de manera secuencial.
    
