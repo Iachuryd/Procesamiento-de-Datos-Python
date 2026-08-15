@@ -56,7 +56,7 @@ Cada cuaderno incluye:
 2. Contar con Jupyter Notebook o Jupyter Lab.
 3. Clonar el repositorio:
    ```
-   
+   https://github.com/Iachuryd/Procesamiento-de-Datos-Python
    ```
 4. Acceder a la carpeta del proyecto y ejecutar:
    ```
